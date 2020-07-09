@@ -1,7 +1,6 @@
 #include<iostream>
 using namespace std;
 int main()
-
 {
     int tipodecliente;
     double cantidad, precio, subtotal=0, descuento=0, totalpagar=0;
