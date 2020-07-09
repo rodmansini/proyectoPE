@@ -4,6 +4,9 @@ int main()
 {
     int tipodecliente;
     double cantidad, precio, subtotal=0, descuento=0, totalpagar=0;
+
+
+    
     cout<<" ingrese el tipo de cliene  ";
     cin >> tipodecliente;
     cout<<"ingrese la cantidad:   ";
